@@ -1,0 +1,8 @@
+{
+  "name": "CloudStream",
+  "description": "English Movies, TV Series, Anime and Asian Dramas",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/Deng1130/CloudStreamRepo/refs/heads/main/plugins.json"
+  ]
+}
